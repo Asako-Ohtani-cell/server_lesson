@@ -1,0 +1,12 @@
+- ls
+- ls -a
+- ls -l
+- pwd
+- cd
+- mkdir
+- touch
+- cp
+- mv
+- rm
+- cat
+- vi
