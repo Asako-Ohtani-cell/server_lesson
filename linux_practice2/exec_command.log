@@ -1,1 +1,31 @@
-# history 300
+    1  cd root
+    2  cd server_lesson/
+    3  git log
+    4  git reset 94d34bd03c64fd4c985fe896f25fff7ff896023b
+    5  git log
+    6  git push -f origin mater
+    7  git push -f origin master
+    8  vi .ignore
+    9  ls
+   10  rm .ignore
+   11  cd linux_practice2
+   12  vi .gitignore
+   13  git status
+   14  git rm -r --cached /trash/
+   15  git rm -r --cached trash
+   16  git log
+   17  git reset 94d34bd03c64fd4c985fe896f25fff7ff896023b
+   18  git rm -r --cached trash/gizumo{20..29}.md
+   19  git add .
+   20  git commit -m 'ignore file deleted'
+   21  git push origin master
+   22  git push origin master
+   23  q
+   24  ls
+   25  cd trash
+   26  ls
+   27  cd ..
+   28  vi exec_command.log
+   29  cat exex_command.log
+   30  cat exec_command.log
+   31  history 300 > exec_command.log
